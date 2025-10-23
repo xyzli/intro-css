@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.first-butt, .second-butt{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.first-butt{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
+
+.second-butt{
+    background-color: #ffff00;
+}
